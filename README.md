@@ -18,7 +18,7 @@ For more details, visit my GitHub repositories:
 - [ML-Project---Airline-Price-Prediction](https://github.com/Jathusan19/ML-Project---Airline-Price-Prediction)
 - [Desktop-Application--WPF-individual](https://github.com/Jathusan19/Desktop-Application--WPF-individual)
 
-## Skills
+## Skills.
 
 - **Programming**: C++, Java, JavaScript, HTML, CSS, Python, Dart, C#, Matlab
 - **Web Development**: MERN stack, Spring Boot
