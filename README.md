@@ -1,23 +1,32 @@
-### My CV - Jathusan Uthayaraj
+## About Me
 
-## Overview
-This repository contains my curriculum vitae (CV), showcasing my background as a Computer Engineering undergraduate at the University of Ruhuna. The CV provides an overview of my educational journey, volunteering experiences, projects, and technical skills.
+I am an enthusiastic and attentive Computer Engineering undergraduate eager to embark on a challenging internship opportunity. Expertise in software development tools such as MERN stack, React Native, Flutter, and Java Spring Boot technologies. Possessing a solid foundation with technical skills, I am keen on applying my knowledge to seeking modern solutions.
 
-## Education
-I am currently pursuing a Bachelor of Science in Computer Engineering at the University of Ruhuna, where I have maintained a GPA of 3.28/4.0. Prior to this, I attended V/Vavuniya Tamil MMV, where I obtained excellent results in my Advanced Level (A/L) and Ordinary Level (O/L) examinations.
-
-## Volunteering Experience
-I have demonstrated my leadership and organizational skills through various volunteer positions. I served as the Head Prefect at my school during my Advanced Level years, and I also held the role of Assistant Secretary at the All University Students Development Association Vavuniya District (AUSDAV). Additionally, I have been a committee member of the IEEE Computer Society at the University of Ruhuna.
+- [LinkedIn](https://www.linkedin.com/in/jathusan-uthayaraj-20b7631a6/)
+- [CV](./Jathusan%20Uthayaraj%20-CV.pdf)
 
 ## Projects
-I have worked on several projects that showcase my technical expertise. These include:
-- Blissify: A Music Player app developed using Flutter and Firebase
-- Online Job Portal Website: A website built using the MERN stack
-- Airline Price Predictor: A machine learning-based project to predict airline prices
-- Student Management System: A desktop application developed using WPF, .NET C#, and Entity Framework
+
+- **Blissify Individual Project**: Developed a Music Player app using Flutter and Firebase interaction.
+- **Online Job Portal Website**: Developed using the MERN stack, includes user authentication, job listing, and search functionalities.
+- **Airline Price Predictor Group Project**: Implemented regression algorithms for predicting airline prices.
+- **Student Management System**: Developed using WPF framework, .NET C#, and Entity Framework.
+
+For more details, visit my GitHub repositories:
+- [Blissify-Mobile-application](https://github.com/Jathusan19/Blissify-Mobile-application)
+- [Job-portal](https://github.com/Jathusan19/Job-portal)
+- [ML-Project---Airline-Price-Prediction](https://github.com/Jathusan19/ML-Project---Airline-Price-Prediction)
+- [Desktop-Application--WPF-individual](https://github.com/Jathusan19/Desktop-Application--WPF-individual)
 
 ## Skills
-I possess a diverse set of technical skills, including proficiency in programming languages such as C++, Java, JavaScript, HTML, CSS, Python, Dart, C#, and MATLAB. I am also skilled in web development using the MERN stack and Spring Boot, as well as mobile app development with Flutter and React Native. Additionally, I have experience in database management, UI/UX design, machine learning, cloud computing, DevOps, networking, and version control.
 
-## References
-I have provided references from two senior lecturers at the University of Ruhuna, Dr. Chatura Seneviratne and Dr. Rajitha Udawalpola, who have attested to my academic and technical abilities.
+- **Programming**: C++, Java, JavaScript, HTML, CSS, Python, Dart, C#, Matlab
+- **Web Development**: MERN stack, Spring Boot
+- **Mobile App Development**: Flutter, React Native
+- **Database Management**: MongoDB, Firebase, MySQL
+- **UI/UX Design**: Figma, Adobe XD
+- **Machine Learning**: Python, TensorFlow
+- **Cloud Computing**: AWS, Azure
+- **DevOps**: Docker, Kubernetes, Jenkins
+- **Networking**: Cisco Packet Tracer
+- **Version Control**: Git, GitHub
